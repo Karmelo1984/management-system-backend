@@ -3,6 +3,7 @@ import { AppService } from './app.service';
 
 /**
  * Los controladores son las rutas de nuestro servidor
+ * @Get() corresponde a la petición get de nuestro servidor
  */
 
 @Controller()
